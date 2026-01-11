@@ -1,8 +1,0 @@
-Django
-mysqlclient
-pymysql
-langchain_groq
-python-dotenv
-python-docx
-PyPDF2
-
