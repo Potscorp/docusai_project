@@ -1,5 +1,5 @@
-Django
-mysqlclient
+Django>=5.2
+mysqlclient>=2.2.1
 pymysql
 langchain_groq
 python-dotenv
